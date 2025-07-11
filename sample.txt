@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Devops Lab Week-2 Completed.
+Devops Lab week-3 Completed.
+>>>>>>> 445c985a9975a74b9f9ec62bafd5578d726159c9
